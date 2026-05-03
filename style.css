@@ -67,7 +67,7 @@ nav ul li a:hover {
 
 .hero-text .btn {
     display: inline-block;
-    margin-top: 20px;   /* puts button BELOW paragraph */
+    margin-top: 20px;   
 }
 
 .hero-content h1 {
